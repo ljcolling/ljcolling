@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
 
 ### Hi there, I'm Lincoln 👋
 
@@ -28,9 +28,8 @@ I'm a Cognitive Scientist based at the [University of Sussex][Sussex] where I te
 
 <br />
 
-
+<!--
 ### Find me on...
-
 [<i class="fas fa-globe-africa fa-lg" style="color:black;padding:5px"></i>][website] 
 [<i class="fab fa-twitter fa-lg" style="color:black;padding:10px"></i>][twitter] 
 [<i alt="" class="ai ai-google-scholar ai-lg" style="color:black;padding:10px"></i>][scholar] 
@@ -39,13 +38,14 @@ I'm a Cognitive Scientist based at the [University of Sussex][Sussex] where I te
 [<i alt="" class="ai ai-philpapers ai-lg" style="color:black;padding:10px"></i>][philpapers]
 [<i alt="" class="ai ai-semantic-scholar ai-lg" style="color:black;padding:10px"></i>][sematic]
 [<i alt="" class="ai ai-publons ai-lg" style="color:black;padding:10px"></i>][publons]
-
+-->
 
 <img align="left" alt="ljcolling's Github Stats" src="https://github-readme-stats.ljcolling.vercel.app/api?username=ljcolling&show_icons=true&hide_border=true&count_private=true" />
 
 [![Top Langs](https://github-readme-stats.ljcolling.vercel.app/api/top-langs?username=ljcolling&layout=compact&hide_border=true&hide=html,PostScript,TeX,css)](https://github.com/anuraghazra/github-readme-stats)
 
 [Sussex]: https://profiles.sussex.ac.uk/p488921-lincoln-colling
+<!--
 [website]: https://research.colling.net.nz
 [twitter]: https://twitter.com/lincoln81
 [scholar]: https://scholar.google.com/citations?user=lgZOQkUAAAAJ
@@ -54,3 +54,4 @@ I'm a Cognitive Scientist based at the [University of Sussex][Sussex] where I te
 [philpapers]: https://philpeople.org/profiles/lincoln-colling
 [sematic]: https://www.semanticscholar.org/author/Lincoln-J.-Colling/3381001
 [publons]: https://publons.com/researcher/2694993/lincoln-j-colling/
+-->
