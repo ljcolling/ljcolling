@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 
 <img align="left" alt="ljcolling's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ljcolling&show_icons=true&hide_border=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljcolling&layout=compact)](https://github.com/ljcolling/github-readme-stats)
