@@ -6,8 +6,6 @@
 I'm a Cognitive Scientist based at the [University of Sussex][Sussex] where I teach research methods, statistics, and R.
 <br />
 
-![](./test.svg)
-
 ### Languages and Tools
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
