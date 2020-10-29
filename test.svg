@@ -3,11 +3,8 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
     <style>
         @import url(https://fonts.googleapis.com/css2?family=Syne+Tactile);
-        :root {
-        --text-font-family: 'Cabin'
-        }
       .container {
-    font-family: var(--text-font-family);
+    font-family: font-family: 'Syne Tactile', cursive;
     font-size: 2em;
     display: flex;
     margin-left: auto;
