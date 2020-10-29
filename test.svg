@@ -2,9 +2,9 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
     <style>
-        @import url(https://fonts.googleapis.com/css2?family=Syne+Tactile);
+    @import url("https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DSyne%2BTactile%26display%3Dswap");
       .container {
-    font-family: font-family: 'Syne Tactile', cursive;
+    font-family: 'Syne Tactile', cursive;
     font-size: 2em;
     display: flex;
     margin-left: auto;
