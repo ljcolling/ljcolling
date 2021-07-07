@@ -26,31 +26,21 @@ I'm a Cognitive Scientist based at the [University of Sussex][Sussex] where I te
 
 <img align="left" alt="Raspberry PI" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />
 
-<img align="left" alt="Ruby" width="26px" src="https://github.com/github/explore/raw/master/topics/ruby/ruby.png" />
+<img align="left" alt="Ruby" width="26px" src="https://github.com/github/explore/blob/01b5e6d7e643d345f50283e12462b0222f71f788/topics/ruby/ruby.png" />
+
+<img align="left" alt="Go" width="26px" src="https://github.com/github/explore/blob/01b5e6d7e643d345f50283e12462b0222f71f788/topics/go/go.png" />
+
+<img align="left" alt="Rust" width="26px" src="https://github.com/github/explore/blob/01b5e6d7e643d345f50283e12462b0222f71f788/topics/rust/rust.png" />
+
+<img align="left" alt="React" width="26px" src="https://github.com/github/explore/blob/main/topics/react/react.png" />
 
 <br />
 
-<!--
-### Find me on...
-[<i class="fas fa-globe-africa fa-lg" style="color:black;padding:5px"></i>][website] 
-[<i class="fab fa-twitter fa-lg" style="color:black;padding:10px"></i>][twitter] 
-[<i alt="" class="ai ai-google-scholar ai-lg" style="color:black;padding:10px"></i>][scholar] 
-[<i alt="" class="ai ai-osf ai-lg" style="color:black;padding:10px"></i>][osf] 
-[<i alt="" class="ai ai-orcid ai-lg" style="color:black;padding:10px"></i>][orcid]
-[<i alt="" class="ai ai-philpapers ai-lg" style="color:black;padding:10px"></i>][philpapers]
-[<i alt="" class="ai ai-semantic-scholar ai-lg" style="color:black;padding:10px"></i>][sematic]
-[<i alt="" class="ai ai-publons ai-lg" style="color:black;padding:10px"></i>][publons]
--->
 
-<!--
-<img align="left" alt="ljcolling's Github Stats" src="https://github-readme-stats.ljcolling.vercel.app/api?username=ljcolling&show_icons=true&hide_border=true&count_private=true" />
--->
-<!--
-[![Top Langs](https://github-readme-stats.ljcolling.vercel.app/api/top-langs?username=ljcolling&layout=compact&hide_border=true&hide=html,PostScript,TeX,css)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 
 [Sussex]: https://profiles.sussex.ac.uk/p488921-lincoln-colling
-<!--
+
 [website]: https://research.colling.net.nz
 [twitter]: https://twitter.com/lincoln81
 [scholar]: https://scholar.google.com/citations?user=lgZOQkUAAAAJ
@@ -59,4 +49,4 @@ I'm a Cognitive Scientist based at the [University of Sussex][Sussex] where I te
 [philpapers]: https://philpeople.org/profiles/lincoln-colling
 [sematic]: https://www.semanticscholar.org/author/Lincoln-J.-Colling/3381001
 [publons]: https://publons.com/researcher/2694993/lincoln-j-colling/
--->
+
