@@ -32,6 +32,7 @@ teach research methods, statistics, and R. <br />
 
 <br />
 
+
 ### Find me on
 
 <a href="https://scholar.google.com/citations?user=lgZOQkUAAAAJ"><img alt="Google Scholar" src="./scholar.png" style="height:2em" /></a>
