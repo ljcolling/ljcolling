@@ -35,12 +35,12 @@ teach research methods, statistics, and R. <br />
 
 ### Find me on
 
-<a href="https://scholar.google.com/citations?user=lgZOQkUAAAAJ"><img alt="Google Scholar" src="./scholar.png" style="height:2em" /></a>
-<a href="https://twitter.com/lincoln81"><img alt="twitter" src="./twitter.png" style="height:2em" /></a>
-<a href="https://orcid.org/0000-0002-3572-7758"><img alt="orcid" src="./orcid.png" style="height:2em" /></a>
-<a href="https://osf.io/v96gc"><img alt="osf" src="./osf.png" style="height:2em" /></a>
+<a href="https://scholar.google.com/citations?user=lgZOQkUAAAAJ"><img alt="Google Scholar" src="./scholar.png" style="height:26px" /></a>
+<a href="https://twitter.com/lincoln81"><img alt="twitter" src="./twitter.png" style="height:26px" /></a>
+<a href="https://orcid.org/0000-0002-3572-7758"><img alt="orcid" src="./orcid.png" style="height:26px" /></a>
+<a href="https://osf.io/v96gc"><img alt="osf" src="./osf.png" style="height:26px" /></a>
 
-## Some things I've build
+## Some things I've built
 
 I've you're interested in doing Bayesian statistics then check out the
 [**bayesplay** `R` package](https://bayesplay.github.io/bayesplay/) and the
