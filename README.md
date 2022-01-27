@@ -42,6 +42,6 @@ teach research methods, statistics, and R. <br />
 
 ## Some things I've built
 
-I've you're interested in doing Bayesian statistics then check out the
+If you're interested in doing Bayesian statistics then check out the
 [**bayesplay** `R` package](https://bayesplay.github.io/bayesplay/) and the
 [**bayesplay** webapp](https://bayesplay.colling.net.nz/)
