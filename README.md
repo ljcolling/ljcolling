@@ -47,3 +47,9 @@ teach research methods, statistics, and R. <br />
 If you're interested in doing Bayesian statistics then check out the
 [**bayesplay** `R` package](https://bayesplay.github.io/bayesplay/) and the
 [**bayesplay** webapp](https://bayesplay.colling.net.nz/)
+
+## My blog
+
+I've also have a blog about programming, statistics, and cogntive science. You can read it at [blog.colling.net.nz](https://blog.colling.net.nz)
+
+
