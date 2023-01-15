@@ -50,6 +50,7 @@ If you're interested in doing Bayesian statistics then check out the
 
 ## My blog
 
-I've also have a blog about programming, statistics, and cogntive science. You can read it at [blog.colling.net.nz](https://blog.colling.net.nz)
+I also have a blog about programming, statistics, and cognitive science. You
+can read it at [blog.colling.net.nz](https://blog.colling.net.nz)
 
 
